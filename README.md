@@ -1,6 +1,8 @@
 # Web Calculator
 
 A simple and clean web calculator built with HTML, CSS, and JavaScript.
+This was made from perplexity ai (I didn't make it)
+
 
 ## Features
 - Basic operations: Addition, Subtraction, Multiplication, Division
